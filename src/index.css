@@ -654,9 +654,9 @@ body {
   flex-shrink: 0;
 }
 
-.priority-high .bubble-dot { background: var(--high-dot); }
-.priority-medium .bubble-dot { background: var(--medium-dot); }
-.priority-low .bubble-dot { background: var(--low-dot); }
+.priority-high .bubble-dot { background: rgb(35, 177, 35); }
+.priority-medium .bubble-dot { background: rgb(35, 177, 35); }
+.priority-low .bubble-dot { background: rgb(35, 177, 35); }
 
 .bubble-title {
   color: var(--text);
